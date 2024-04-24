@@ -1,0 +1,1 @@
+## Safewallet - Test automatizado
